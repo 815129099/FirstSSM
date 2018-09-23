@@ -1,0 +1,1549 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7691d149-6145-40e9-9daa-1b70a308047c" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_5_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_5_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_5_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_jsqlparser_jsqlparser_0_9_6.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_pagehelper_pagehelper_4_1_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_dbcp_commons_dbcp_1_2_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_pool_commons_pool_1_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_servlet_api_2_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jstl_jstl_1_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_11.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_38.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_2_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_3_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_3_3_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_3_3_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_3_3_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_4_3_3_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_3_3_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_3_3_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_4_3_3_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_oxm_4_3_3_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_4_3_3_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_4_3_3_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_3_3_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_4_3_3_RELEASE.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/book.sql" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/apply.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/comIndex.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/company.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/create.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/createSu.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/delivery.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/errorCom.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/index.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/index1.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/login.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/preview.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/previewCom.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/register.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/reset.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/sendEmail.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/showError.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/stuResume.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/student.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/suCom.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/updatePwd.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/updateSu.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM.war" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/WEB-INF/classes/com/smart/bean/Book.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/WEB-INF/classes/com/smart/controller/bookController.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/WEB-INF/classes/com/smart/dao/bookDao.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/WEB-INF/classes/com/smart/service/bookService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/WEB-INF/classes/com/smart/service/bookServiceImp.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/WEB-INF/classes/log4j.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/WEB-INF/classes/mapper/bookMapper.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/WEB-INF/classes/mybatis.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/WEB-INF/classes/spring-mybatis.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/WEB-INF/lib/activation-1.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/WEB-INF/lib/commons-dbcp-1.2.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/WEB-INF/lib/commons-logging-1.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/WEB-INF/lib/commons-pool-1.3.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/WEB-INF/lib/hamcrest-core-1.3.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/WEB-INF/lib/jackson-annotations-2.5.4.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/WEB-INF/lib/jackson-core-2.5.4.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/WEB-INF/lib/jackson-databind-2.5.4.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/WEB-INF/lib/jsqlparser-0.9.4.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/WEB-INF/lib/jsqlparser-0.9.6.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/WEB-INF/lib/jstl-1.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/WEB-INF/lib/junit-4.11.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/WEB-INF/lib/log4j-1.2.17.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/WEB-INF/lib/mail-1.4.7.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/WEB-INF/lib/mybatis-3.2.5.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/WEB-INF/lib/mybatis-spring-1.3.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/WEB-INF/lib/mysql-connector-java-5.1.38.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/WEB-INF/lib/mysql-connector-java-5.1.46.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/WEB-INF/lib/mysql-connector-java-8.0.11.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/WEB-INF/lib/pagehelper-4.1.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/WEB-INF/lib/protobuf-java-2.6.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/WEB-INF/lib/spring-aop-4.3.3.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/WEB-INF/lib/spring-beans-4.3.3.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/WEB-INF/lib/spring-context-4.3.3.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/WEB-INF/lib/spring-context-support-4.3.3.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/WEB-INF/lib/spring-core-4.3.3.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/WEB-INF/lib/spring-expression-4.3.3.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/WEB-INF/lib/spring-jdbc-4.3.3.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/WEB-INF/lib/spring-oxm-4.3.3.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/WEB-INF/lib/spring-test-4.3.3.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/WEB-INF/lib/spring-tx-4.3.3.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/WEB-INF/lib/spring-web-4.3.3.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/WEB-INF/lib/spring-webmvc-4.3.3.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/WEB-INF/spring-mvc-servlet.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/WEB-INF/views/allegeList.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/WEB-INF/views/apply.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/WEB-INF/views/comIndex.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/WEB-INF/views/company.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/WEB-INF/views/create.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/WEB-INF/views/createSu.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/WEB-INF/views/delivery.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/WEB-INF/views/errorCom.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/WEB-INF/views/index.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/WEB-INF/views/index1.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/WEB-INF/views/login.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/WEB-INF/views/maSystem.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/WEB-INF/views/meList.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/WEB-INF/views/preview.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/WEB-INF/views/previewCom.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/WEB-INF/views/register.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/WEB-INF/views/reset.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/WEB-INF/views/sendEmail.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/WEB-INF/views/showError.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/WEB-INF/views/stuResume.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/WEB-INF/views/student.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/WEB-INF/views/suCom.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/WEB-INF/views/updatePwd.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/WEB-INF/views/updateSu.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/WEB-INF/web.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/index.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/colorbox.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/datatables.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/default.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/external.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/font.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/404.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/ab.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/ad_122.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/ad_280.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/ad_durex.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/ad_ggj_prize.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/ad_index.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/ad_index_r.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/ad_rising.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/addnew.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/alert.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/arr.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/arrow.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/backtop.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/bbs_icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/bbs_login.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/bbs_side.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/bgwall.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/brackets.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/breakline.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/button.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/buttons.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/c_edit.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/check_popbox_close.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/checkbox.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/close_grey.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/close_notice.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/collection_icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/collection_tip.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/confirm.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/control_current.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/controls.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/corners.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/du_close.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/edit.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/error.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/expire_tip.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/expired_tip.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/footbar_btn_green.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/footbar_btn_green_hover.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/footbar_btn_red.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/footbar_btn_red_hover.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/footbar_comma.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/footbar_img.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/footbar_login.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/footbar_no.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/footbar_register.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/footbar_text.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/footerbar_repeat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/ggj_repeat.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/gotPrize.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/gotPrize01.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/gotPrize02.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/hc_list_bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/hc_list_bg_curr.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/homeNoResult.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/horizontal.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/hot.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/icon_add.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/icon_file.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/icon_new.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/icons.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/index.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/index01.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/index_ad_rt.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/index_resume.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/index_s.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/index_s01.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/jd_btn.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/jd_dot_l.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/jd_dot_r.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/jd_icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/jiathis_ico.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/jiathis_ico_24x24.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/jiathis_ico_32x32.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/job_122.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/job_122_1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/job_detail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/lb_error.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/line.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/loading.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/loading_background.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/login_btm.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/logo_upload.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/menu_arrow.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/menu_check.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/msg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/myjob_option1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/myjob_option2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/no1234.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/noResumeReceived.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/noreply.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/noresult.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/noresult_50.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/noresult_95.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/noticeDot.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/offer_status.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/open_services_steps.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/overlay.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/overlay01.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/overlay02.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/overlay_light.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/partner_enter.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/position_del.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/preview_btn_unverify.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/profile_add.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/profile_cover.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/profile_cover_white.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/profile_op.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/profile_select_139.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/profile_select_190.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/profile_select_287.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/profile_select_410.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/profile_square.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/progress.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/progress_close.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/publish_tip.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/qr_cloud_close.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/qr_cloud_resume.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/qr_index.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/qr_register.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/qrcode.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/quote_l.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/quote_r.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/radio.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/radioSel.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/radio_checked.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/record.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/record_check.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/refresh.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/registor_now.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/remind.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/resume.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/resume_dashed.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/resume_preview_btns.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/resume_square.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/resume_tip_home.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/resume_tip_joblist.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/resume_tip_unhandle_1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/resume_tip_unhandle_2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/resume_tip_unhandle_3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/resume_web.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/resumeset.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/reward.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/reward_big.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/right_reason.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/s_arrow.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/s_choose.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/s_drop.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/saoma.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/saowo_bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/saowo_title.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/select.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/select_arrow.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/select_r.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/select_short.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/service_icons.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/sina-icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/square.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/stars.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/starsPop.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/status_bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/status_dot.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/sub.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/sub_icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/subscribe.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/subscribe_bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/thumb_cover.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/tip_didi.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/tip_success.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/tipclose.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/tipclose_b4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/title_arrow.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/title_arrow01.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/title_arrow_new.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/ui-icons_ffffff_256x240.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/unread.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/unresume.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/unvalid.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/upload_file.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/user_choose.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/user_warn.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/valid.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/vertical.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/wbqq.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/welcome_c.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/img/xs.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/jiathis_share.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/popup.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/search.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/style.css.bak" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/style20160105.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/table.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/ui.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/window.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/css/xadmin.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/fonts/iconfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/fonts/iconfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/fonts/iconfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/fonts/iconfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/images/05ca024b95d242bb8178edaa5bd1b25a.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/images/11c812bedb4a481fa06ca488dac2f23f.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/images/2bba2b71d0b0443eaea1774f7ee17c9f.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/images/329b56ef443c4ae2a2024955f58705f8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/images/354d445c5fd84f1990b91eb559677eb5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/images/381b343557774270a508206b3a725f39.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/images/3ad1d8845e8345019006b38cd45302c0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/images/4469b1b83b1f46c7adec255c4b1e4802.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/images/451a3ab87bb149a5b0779baf81f0a667.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/images/5caf8f9631114bf990f87bb11360653e.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/images/73338ca8e1694b298d223745670f8daf_318969.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/images/7fdf693be1044ed8a71f561420162a3b.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/images/8d63eda78f714d2dacb0e5d201bbce2e.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/images/8e05f869fe0640318d62c562d6a9a322.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/images/a254b11ecead45bda166afa8aaa9c8bc.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/images/aboutus.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/images/ajax-loader.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/images/b533f6e729e74b418fcd6862bbde95dc_318969.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/images/c0052c69ef4546c3b7d08366d0744974.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/images/c5e0d4d3dc9047c89986c9eca2feb277.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/images/c75654bc2ab141df8218983cfe5c89f9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/images/c9d8a0756d1442caa328adcf28a38857.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/images/cloud_m.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/images/cloud_s.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/images/company.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/images/companylist_qr.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/images/copyright_logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/images/d03110162390422bb97cebc7fd2ab586.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/images/d05a2cc6e6c94bdd80e074eb05e37ebd.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/images/d1f91afa15eb451eaef4d14dcb3b54ec_318969.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/images/default_headpic.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/images/e802e0078d194e76afbb7abb102af275.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/images/f4822a445a8b495ebad81fcfad3e40e2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/images/f57de6b836fa454ebd13c41537e152ba.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/images/ff80808140ac5ed90140b953972e0215.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/images/ff80808142a8df050142b1674c596676.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/images/ff80808142e0968f0142e0d41f1205f2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/images/ff8080814356e881014357741e5910f1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/images/ff808081441c19bf01441f9a47190b3a.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/images/ff80808145ae05750145b0467a1c7ddd.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/images/ff80808146d99c970146efd983ea016a.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/images/footbar_logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/images/get_flash_player.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/images/img/addrPage.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/images/img/bgs.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/images/img/blank.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/images/img/mapctrls1d3.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/images/img/mapctrls2d0.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/images/img/mapctrls2d0_mb.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/images/img/markers_new_ie6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/images/img/node.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/images/img/nodeT.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/images/img/sel_body_n_top.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/images/job_qr_btm.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/images/jquery_school.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/images/leader_default.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/images/linuxcn.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/images/loading.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/images/logo1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/images/logo3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/images/logo5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/images/logo_default.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/images/logo_default01.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/images/logo_white.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/images/mapctrls.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/images/mapctrls2d0.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/images/marker_red_sprite.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/images/muke.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/images/product_default.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/images/psw_step1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/images/qq.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/images/qr_delivery.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/images/qr_resume.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/images/qrcode.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/images/quote_l.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/images/quote_r.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/images/rising280.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/images/step1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/images/step2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/images/step3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/images/step4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/images/step5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/images/subject280.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/images/tips.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/images/valid.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/images/w3cplus.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/images/weibo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/images/wx1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/images/wx2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/images/wx3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/images/zhouyou.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/images/zhubajie.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/js/Chart.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/js/additional-methods.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/js/ajaxCross.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/js/ajaxfileupload.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/js/allmobilize.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/js/analytics.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/js/analytics01.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/js/bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/js/certification.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/js/collections.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/js/common1.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/js/company6.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/js/company_list.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/js/conv.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/js/conversion.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/js/core.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/js/count.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/js/delivery.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/js/excanvas.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/js/function.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/js/h.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/js/home.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/js/j.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/js/jia.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/js/job8.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/js/job_detail.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/js/job_list.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/js/jqPaginator/jqPaginator.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/js/jquery-1.12.4.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/js/jquery-hbzx.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/js/jquery.1.10.1.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/js/jquery.1.12.4.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/js/jquery.colorbox-min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/js/jquery.dataTables.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/js/jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/js/jquery.lib.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/js/jquery.tinymce.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/js/jquery.ui.datetimepicker.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/js/popup.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/js/profile11.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/js/received_resumes.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/js/search.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/js/service.ddlist.jquery.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/js/services.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/js/setting.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/js/statics/Thumbs.db" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/js/statics/grade1.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/js/statics/grade2.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/js/statics/jquery-latest.pack.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/js/statics/star1.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/js/statics/star10.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/js/statics/star2.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/js/statics/star3.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/js/statics/star4.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/js/statics/star5.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/js/statics/star6.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/js/statics/star7.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/js/statics/star8.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/js/statics/star9.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/js/statics/star_small.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/js/step2.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/js/step3.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/js/step4.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/js/step5.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/js/step6.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/js/sub.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/js/swfobject_modified.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/js/tinymce.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/js/tongji.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/js/validate/additional-methods.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/js/validate/jquery.validate.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/js/wb.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/js/xadmin.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/lib/layui/css/layui.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/lib/layui/css/layui.mobile.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/lib/layui/css/modules/code.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/lib/layui/css/modules/laydate/default/laydate.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/lib/layui/css/modules/layer/default/icon-ext.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/lib/layui/css/modules/layer/default/icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/lib/layui/css/modules/layer/default/layer.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/lib/layui/css/modules/layer/default/loading-0.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/lib/layui/css/modules/layer/default/loading-1.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/lib/layui/css/modules/layer/default/loading-2.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/lib/layui/font/iconfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/lib/layui/font/iconfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/lib/layui/font/iconfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/lib/layui/font/iconfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/lib/layui/images/face/0.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/lib/layui/images/face/1.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/lib/layui/images/face/10.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/lib/layui/images/face/11.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/lib/layui/images/face/12.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/lib/layui/images/face/13.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/lib/layui/images/face/14.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/lib/layui/images/face/15.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/lib/layui/images/face/16.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/lib/layui/images/face/17.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/lib/layui/images/face/18.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/lib/layui/images/face/19.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/lib/layui/images/face/2.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/lib/layui/images/face/20.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/lib/layui/images/face/21.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/lib/layui/images/face/22.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/lib/layui/images/face/23.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/lib/layui/images/face/24.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/lib/layui/images/face/25.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/lib/layui/images/face/26.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/lib/layui/images/face/27.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/lib/layui/images/face/28.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/lib/layui/images/face/29.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/lib/layui/images/face/3.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/lib/layui/images/face/30.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/lib/layui/images/face/31.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/lib/layui/images/face/32.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/lib/layui/images/face/33.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/lib/layui/images/face/34.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/lib/layui/images/face/35.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/lib/layui/images/face/36.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/lib/layui/images/face/37.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/lib/layui/images/face/38.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/lib/layui/images/face/39.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/lib/layui/images/face/4.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/lib/layui/images/face/40.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/lib/layui/images/face/41.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/lib/layui/images/face/42.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/lib/layui/images/face/43.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/lib/layui/images/face/44.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/lib/layui/images/face/45.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/lib/layui/images/face/46.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/lib/layui/images/face/47.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/lib/layui/images/face/48.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/lib/layui/images/face/49.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/lib/layui/images/face/5.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/lib/layui/images/face/50.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/lib/layui/images/face/51.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/lib/layui/images/face/52.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/lib/layui/images/face/53.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/lib/layui/images/face/54.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/lib/layui/images/face/55.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/lib/layui/images/face/56.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/lib/layui/images/face/57.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/lib/layui/images/face/58.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/lib/layui/images/face/59.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/lib/layui/images/face/6.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/lib/layui/images/face/60.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/lib/layui/images/face/61.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/lib/layui/images/face/62.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/lib/layui/images/face/63.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/lib/layui/images/face/64.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/lib/layui/images/face/65.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/lib/layui/images/face/66.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/lib/layui/images/face/67.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/lib/layui/images/face/68.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/lib/layui/images/face/69.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/lib/layui/images/face/7.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/lib/layui/images/face/70.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/lib/layui/images/face/71.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/lib/layui/images/face/8.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/lib/layui/images/face/9.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/lib/layui/lay/modules/carousel.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/lib/layui/lay/modules/code.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/lib/layui/lay/modules/element.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/lib/layui/lay/modules/flow.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/lib/layui/lay/modules/form.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/lib/layui/lay/modules/jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/lib/layui/lay/modules/laydate.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/lib/layui/lay/modules/layedit.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/lib/layui/lay/modules/layer.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/lib/layui/lay/modules/laypage.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/lib/layui/lay/modules/laytpl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/lib/layui/lay/modules/mobile.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/lib/layui/lay/modules/table.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/lib/layui/lay/modules/tree.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/lib/layui/lay/modules/upload.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/lib/layui/lay/modules/util.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/lib/layui/layui.all.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SSM/style/lib/layui/layui.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/bookManager-1.0-SNAPSHOT-war-exec.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tomcat/logs/access_log.2018-09-04" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tomcat/logs/access_log.2018-09-05" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tomcat/logs/access_log.2018-09-06" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tomcat/logs/access_log.2018-09-07" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/SSM/org/apache/jsp/WEB_002dINF/views/index1_jsp.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/SSM/org/apache/jsp/WEB_002dINF/views/index1_jsp.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/war-exec.manifest" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/war-exec.properties" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/smart/controller/bookController.class" afterPath="$PROJECT_DIR$/target/classes/com/smart/controller/bookController.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/SSM/org/apache/jsp/WEB_002dINF/views/meList_jsp.class" afterPath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/SSM/org/apache/jsp/WEB_002dINF/views/meList_jsp.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/smart/controller/bookController.java" afterPath="$PROJECT_DIR$/src/main/java/com/smart/controller/bookController.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/spring-mybatis.xml" afterPath="$PROJECT_DIR$/src/main/resources/spring-mybatis.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/meList.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/meList.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/spring-mybatis.xml" afterPath="$PROJECT_DIR$/target/classes/spring-mybatis.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/tomcat/conf/logging.properties" afterPath="$PROJECT_DIR$/target/tomcat/conf/logging.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/tomcat/conf/tomcat-users.xml" afterPath="$PROJECT_DIR$/target/tomcat/conf/tomcat-users.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/tomcat/conf/web.xml" afterPath="$PROJECT_DIR$/target/tomcat/conf/web.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/SSM/org/apache/jsp/WEB_002dINF/views/maSystem_jsp.java" afterPath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/SSM/org/apache/jsp/WEB_002dINF/views/maSystem_jsp.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/SSM/org/apache/jsp/WEB_002dINF/views/meList_jsp.java" afterPath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/SSM/org/apache/jsp/WEB_002dINF/views/meList_jsp.java" />
+    </list>
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="bookMapper.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/bookMapper.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1377">
+              <caret line="51" column="37" lean-forward="false" selection-start-line="51" selection-start-column="37" selection-end-line="51" selection-end-column="37" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="meList.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/meList.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="14202">
+              <caret line="526" column="73" lean-forward="false" selection-start-line="526" selection-start-column="73" selection-end-line="526" selection-end-column="73" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="spring-mybatis.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/spring-mybatis.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="648">
+              <caret line="24" column="46" lean-forward="false" selection-start-line="24" selection-start-column="46" selection-end-line="24" selection-end-column="46" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bookDao.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/smart/dao/bookDao.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="432">
+              <caret line="18" column="41" lean-forward="false" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bookServiceImp.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/smart/service/bookServiceImp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1431">
+              <caret line="65" column="24" lean-forward="false" selection-start-line="65" selection-start-column="24" selection-end-line="65" selection-end-column="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#535#536#0" expanded="true" />
+                <element signature="e#575#576#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bookController.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/smart/controller/bookController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="36" column="36" lean-forward="false" selection-start-line="36" selection-start-column="28" selection-end-line="36" selection-end-column="36" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>listUser</find>
+      <find>resetModal</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/resources/mybatis.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/spring-mvc-servlet.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/smart/bean/User.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/resumeList.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/maSystem.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/com/smart/service/bookService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/smart/dao/bookDao.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/mapper/bookMapper.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/smart/bean/Book.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/smart/service/bookServiceImp.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/spring-mybatis.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/smart/controller/bookController.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/meList.jsp" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\maven\m2\repository" />
+        <option name="mavenHome" value="E:/maven/apache-maven-3.5.0" />
+        <option name="userSettingsFile" value="E:\maven\m2\repository\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="SSM Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="SSM Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="SSM Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+          <item name="tomcat7" type="36feed69:MavenProjectsStructure$PluginNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="SSM Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="184" />
+    <option name="y" value="347" />
+    <option name="width" value="1026" />
+    <option name="height" value="558" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="bookManager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bookManager" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bookManager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bookManager" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bookManager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bookManager" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bookManager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bookManager" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bookManager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bookManager" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="smart" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bookManager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bookManager" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="smart" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bookManager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bookManager" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="smart" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bookManager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bookManager" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="smart" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bookManager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bookManager" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bookManager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bookManager" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bookManager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bookManager" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bookManager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bookManager" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bookManager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="外部库" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\code\Repository\bookManager\src\main" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="bookManager" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7691d149-6145-40e9-9daa-1b70a308047c" name="Default" comment="" />
+      <created>1536021446603</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1536021446603</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="调试" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.02618658" sideWeight="0.1172466" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290469" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.49546143" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="运行" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.02618658" sideWeight="0.88275343" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="控制板" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27609682" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="设计师" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="消息" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.48828697" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="找到" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/bookMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1377">
+          <caret line="51" column="37" lean-forward="false" selection-start-line="51" selection-start-column="37" selection-end-line="51" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/meList.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14202">
+          <caret line="526" column="73" lean-forward="false" selection-start-line="526" selection-start-column="73" selection-end-line="526" selection-end-column="73" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring-mybatis.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="24" column="46" lean-forward="false" selection-start-line="24" selection-start-column="46" selection-end-line="24" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/smart/dao/bookDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="18" column="41" lean-forward="false" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/smart/service/bookServiceImp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1431">
+          <caret line="65" column="24" lean-forward="false" selection-start-line="65" selection-start-column="24" selection-end-line="65" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#535#536#0" expanded="true" />
+            <element signature="e#575#576#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/smart/controller/bookController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="36" column="36" lean-forward="false" selection-start-line="36" selection-start-column="28" selection-end-line="36" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/bookMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1377">
+          <caret line="51" column="37" lean-forward="true" selection-start-line="51" selection-start-column="37" selection-end-line="51" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/smart/dao/bookDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="18" column="41" lean-forward="false" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/smart/service/bookServiceImp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1431">
+          <caret line="65" column="24" lean-forward="false" selection-start-line="65" selection-start-column="24" selection-end-line="65" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#535#536#0" expanded="true" />
+            <element signature="e#575#576#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/smart/controller/bookController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2241">
+          <caret line="108" column="9" lean-forward="true" selection-start-line="108" selection-start-column="9" selection-end-line="108" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/meList.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14202">
+          <caret line="526" column="73" lean-forward="false" selection-start-line="526" selection-start-column="73" selection-end-line="526" selection-end-column="73" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/bookMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1404">
+          <caret line="52" column="32" lean-forward="true" selection-start-line="52" selection-start-column="32" selection-end-line="52" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/maSystem.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2133">
+          <caret line="79" column="43" lean-forward="false" selection-start-line="79" selection-start-column="43" selection-end-line="79" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/smart/dao/bookDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="18" column="41" lean-forward="false" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/smart/service/bookService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="19" column="44" lean-forward="false" selection-start-line="19" selection-start-column="44" selection-end-line="19" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/smart/service/bookServiceImp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1431">
+          <caret line="65" column="24" lean-forward="false" selection-start-line="65" selection-start-column="24" selection-end-line="65" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#535#536#0" expanded="true" />
+            <element signature="e#575#576#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/smart/controller/bookController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2187">
+          <caret line="106" column="58" lean-forward="true" selection-start-line="106" selection-start-column="58" selection-end-line="106" selection-end-column="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/meList.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11745">
+          <caret line="435" column="39" lean-forward="false" selection-start-line="435" selection-start-column="39" selection-end-line="435" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/bookMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1050">
+          <caret line="42" column="35" lean-forward="false" selection-start-line="42" selection-start-column="35" selection-end-line="42" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/maSystem.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1975">
+          <caret line="79" column="43" lean-forward="true" selection-start-line="79" selection-start-column="43" selection-end-line="79" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/smart/dao/bookDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="14" column="22" lean-forward="false" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/smart/service/bookService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="17" column="46" lean-forward="false" selection-start-line="17" selection-start-column="46" selection-end-line="17" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/smart/service/bookServiceImp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="775">
+          <caret line="43" column="27" lean-forward="false" selection-start-line="43" selection-start-column="27" selection-end-line="43" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#535#536#0" expanded="true" />
+            <element signature="e#575#576#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/smart/controller/bookController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2275">
+          <caret line="116" column="60" lean-forward="false" selection-start-line="116" selection-start-column="60" selection-end-line="116" selection-end-column="60" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/meList.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10775">
+          <caret line="431" column="25" lean-forward="true" selection-start-line="431" selection-start-column="25" selection-end-line="431" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/smart/bean/User.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/index.jsp" />
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/index1.jsp" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.5/mybatis-3.2.5.jar!/org/apache/ibatis/binding/MapperProxy.class" />
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/maSystem.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2133">
+          <caret line="79" column="43" lean-forward="false" selection-start-line="79" selection-start-column="43" selection-end-line="79" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/smart/service/bookService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="19" column="44" lean-forward="false" selection-start-line="19" selection-start-column="44" selection-end-line="19" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/spring-mvc-servlet.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="27" column="36" lean-forward="false" selection-start-line="27" selection-start-column="36" selection-end-line="27" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="42" lean-forward="true" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FirstSSM.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/smart/bean/Book.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="864">
+          <caret line="52" column="47" lean-forward="true" selection-start-line="52" selection-start-column="47" selection-end-line="52" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/smart/dao/bookDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="18" column="41" lean-forward="false" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/smart/service/bookServiceImp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1431">
+          <caret line="65" column="24" lean-forward="false" selection-start-line="65" selection-start-column="24" selection-end-line="65" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#535#536#0" expanded="true" />
+            <element signature="e#575#576#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mybatis.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="13" column="52" lean-forward="false" selection-start-line="13" selection-start-column="52" selection-end-line="13" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="574">
+          <caret line="172" column="50" lean-forward="false" selection-start-line="172" selection-start-column="50" selection-end-line="172" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/bookMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1377">
+          <caret line="51" column="37" lean-forward="false" selection-start-line="51" selection-start-column="37" selection-end-line="51" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/meList.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14202">
+          <caret line="526" column="73" lean-forward="false" selection-start-line="526" selection-start-column="73" selection-end-line="526" selection-end-column="73" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring-mybatis.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="24" column="46" lean-forward="false" selection-start-line="24" selection-start-column="46" selection-end-line="24" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/smart/controller/bookController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="36" column="36" lean-forward="false" selection-start-line="36" selection-start-column="28" selection-end-line="36" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>bookManager</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
